@@ -1,0 +1,10 @@
+let age;
+age=30;
+console.log("my age is " + age);
+let courseName;
+courseName= "Nodejs";
+let amountOfCredits;
+amountOfCredits=3;
+let startDate;
+startDate= 2024;
+console.log("I am studing " + courseName + ".Course has started on " + startDate + " and it is worth " + amountOfCredits + "credits. ");
